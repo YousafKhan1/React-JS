@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "fname": "yousaf",
+      "lname": "khan",
+      "email": "yousaft1@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 1
+    },
+    {
+      "fname": "yousaf",
+      "lname": "khan",
+      "email": "yousaft2@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 2
+    },
+    {
+      "fname": "halim",
+      "lname": "khan",
+      "email": "halim@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 3
+    },
+    {
+      "fname": "arif",
+      "lname": "khan",
+      "email": "arif@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 4
+    }
+  ]
+}
