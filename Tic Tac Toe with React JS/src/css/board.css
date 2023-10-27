@@ -1,0 +1,64 @@
+:root {
+	--board-background: none;
+	--border-color: #381bf7;
+	--border-thickness: 5px;
+}
+
+.board {
+	width: 30vw;
+	height: 50%;
+	background-color: var(--board-background);
+	display: flex;
+	align-items: flex-start;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.input {
+	height: 33.33%;
+	width: 33.33%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: whitesmoke;
+	font-family: 'Bellefair', serif;
+	font-style: italic;
+	font-weight: 700;
+	font-size: 6rem;
+}
+
+.input1 {
+	border-right: var(--border-thickness) dashed var(--border-color);
+	border-bottom: var(--border-thickness) dashed var(--border-color);
+}
+
+.input2 {
+	border-right: var(--border-thickness) dashed var(--border-color);
+	border-bottom: var(--border-thickness) dashed var(--border-color);
+}
+
+.input3 {
+	border-bottom: var(--border-thickness) dashed var(--border-color);
+}
+
+.input4 {
+	border-right: var(--border-thickness) dashed var(--border-color);
+	border-bottom: var(--border-thickness) dashed var(--border-color);
+}
+
+.input5 {
+	border-right: var(--border-thickness) dashed var(--border-color);
+	border-bottom: var(--border-thickness) dashed var(--border-color);
+}
+
+.input6 {
+	border-bottom: var(--border-thickness) dashed var(--border-color);
+}
+
+.input7 {
+	border-right: var(--border-thickness) dashed var(--border-color);
+}
+
+.input8 {
+	border-right: var(--border-thickness) dashed var(--border-color);
+}
